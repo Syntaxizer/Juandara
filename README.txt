@@ -1,1 +1,0 @@
-Upload index.html and the photos folder to GitHub. Then Settings → Pages → Deploy from main / (root).
